@@ -110,8 +110,3 @@ Kubernetes 维护&排障：
 
 [![Star History Chart](https://api.star-history.com/svg?repos=chaseSpace/k8s-tutorial-cn&type=Date)](https://star-history.com/#chaseSpace/k8s-tutorial-cn&Date)
 
-### Contact
-
-- **Author**：Leigg
-- **Email**：random2035@qq.com
-- **Programming years**：7 years
